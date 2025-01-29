@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configuración de la página
-st.set_page_config(page_title="Mi Proyecto", page_icon="📌", layout="wide")
+st.set_page_config(page_title="My Station", page_icon="📌", layout="wide")
 
 # Estilos personalizados
 st.markdown("""
