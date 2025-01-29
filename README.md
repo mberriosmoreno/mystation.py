@@ -9,7 +9,7 @@ Esta Aplicación permite a los usuarios finales consumir información respecto a
 
 **Estructura recomendada para tu proyect:**
 
-streamlit_project/
+mystation.py/
 - │── .gitignore
 - │── README.md
 - │── requirements.txt
